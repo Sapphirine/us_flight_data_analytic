@@ -1,0 +1,1 @@
+{"afternoon": "0", "evening": "1", "morning": "2", "night": "3"}
